@@ -1,0 +1,30 @@
+.fruits .apple {
+    color: red;
+}
+.fruits .orange {
+    color: orange;
+}
+.fruits .grape {
+    color: blueviolet;
+}
+.fruits .banana {
+    color: rgba(216, 216, 62, 0.925)
+}
+.fruits .strawberry {
+    color: darkred;
+}
+.fruits .coconut {
+    color: saddlebrown;
+}
+.fruits .peach {
+    color: coral;
+}
+.fruits .pear {
+    color: lawngreen;
+}
+.fruits .pineapple {
+    color: peru;
+}
+.fruits .tangerine {
+    color: darkorange;
+}

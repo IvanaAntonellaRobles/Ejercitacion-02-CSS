@@ -1,0 +1,21 @@
+.contain-init {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1rem;
+    background-color: whitesmoke;
+}
+.contain-init #title a {
+    font-size: 1.3rem;
+    color: rgb(72, 115, 209);
+    text-decoration: none;
+}
+.contain-init #time {
+    font-size: 0.9rem;
+    color: dimgrey;
+}
+.contain-emoji {
+    width: 14rem;
+    height: 2rem;
+    background-color:rgb(202, 198, 198);
+    display: flex;
+    align-items: center;
+}

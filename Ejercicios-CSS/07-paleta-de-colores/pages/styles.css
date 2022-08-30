@@ -1,0 +1,101 @@
+.contain-init {
+    font-family: 'Calibri';
+    font-size: 30px;
+    text-align: center;
+}
+    
+.title-1, .title-2, .title-3 {
+    font-size: 25px;
+    font-family: 'Calibri';
+}
+.color-pastel .color1 {
+    background-color: #FFE0B0;
+    width: 12rem;
+    height: 2rem;
+    font-size: 1.5rem;
+}
+.color-pastel .color2 {
+    background-color: #FCFFA6;
+    width: 12rem;
+    height: 2rem;
+    font-size: 1.5rem;
+}
+.color-pastel .color3 {
+    background-color: #C2FFD7;
+    width: 12rem;
+    height: 2rem;
+    font-size: 1.5rem;
+}
+.color-pastel .color4 {
+    background-color: #B5DEFF;
+    width: 12rem;
+    height: 2rem;
+    font-size: 1.5rem;
+}
+.color-pastel .color5 {
+    background-color: #DEC6F5;
+    width: 12rem;
+    height: 2rem;
+    font-size: 1.5rem;
+}
+.color-nature .color1 {
+    background-color: rgb(11, 148, 11);
+    width: 12rem;
+    height: 2rem;
+    font-size: 1.5rem;
+}
+.color-nature .color2 {
+    background-color: rgb(30, 73, 30);
+    width: 12rem;
+    height: 2rem;
+    font-size: 1.5rem;
+}
+.color-nature .color3 {
+    background-color: rgb(73, 56, 30);
+    width: 12rem;
+    height: 2rem;
+    font-size: 1.5rem;
+}
+.color-nature .color4 {
+    background-color: rgb(133, 95, 32);
+    width: 12rem;
+    height: 2rem;
+    font-size: 1.5rem;
+}
+.color-nature .color5 {
+    background-color: rgb(181, 145, 85);
+    width: 12rem;
+    height: 2rem;
+    font-size: 1.5rem;
+}
+.color-rainbow .color1 {
+    background-color: hsl(6, 93%, 44%);
+    width: 12rem;
+    height: 2rem;
+    font-size: 1.5rem;
+}
+.color-rainbow .color2 {
+    background-color: hsl(42, 90%, 48%);
+    width: 12rem;
+    height: 2rem;
+    font-size: 1.5rem;
+}
+.color-rainbow .color3 {
+    background-color: hsl(59, 89%, 50%);
+    width: 12rem;
+    height: 2rem;
+    font-size: 1.5rem;
+}
+.color-rainbow .color4 {
+    background-color: hsl(116, 89%, 50%);
+    width: 12rem;
+    height: 2rem;
+    font-size: 1.5rem;
+}
+.color-rainbow .color5 {
+    background-color: hsl(179, 63%, 64%);
+    width: 12rem;
+    height: 2rem;
+    font-size: 1.5rem;
+}
+    

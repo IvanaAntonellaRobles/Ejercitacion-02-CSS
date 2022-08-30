@@ -1,0 +1,45 @@
+body {
+    background-color: #f3eded;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.title {
+    font-size: 1.7rem;
+}
+.deposito .fecha-1 {
+    font-size: 0.9rem;
+    color: grey;
+}
+.deposito .monto-1 {
+    color: green;
+}
+.transferencia .fecha-2 {
+    font-size: 0.9rem;
+    color: grey;
+}
+.transferencia .monto-2 {
+    color: green;
+}
+.extraccion .fecha-3 {
+    font-size: 0.9rem;
+    color: grey;
+}
+.extraccion .monto-3 {
+    font-size: 1rem;
+    color: green;
+}
+.deposito-2 .fecha-4 {
+    font-size: 0.9rem;
+    color: grey;
+}
+.deposito-2 .monto-4 {
+    font-size: 1rem;
+    color: green;
+}
+.pago .fecha-5 {
+    font-size: 0.9rem;
+    color: grey;
+}
+.pago .monto-5 {
+    font-size: 1rem;
+    color: green;
+}

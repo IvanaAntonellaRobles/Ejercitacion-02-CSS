@@ -1,0 +1,19 @@
+.name {
+    font-size: 120px;
+    font-family: 'Anek Telugu';
+    font-weight: 850;
+}
+.description {
+    font-size: 48px;
+    font-family: 'Anek Telugu';
+    font-weight: 650;
+}
+#programadora {
+    color: blueviolet;
+}
+#videojuegos {
+    color: deepskyblue;
+}
+#anime {
+    color: hotpink;
+}

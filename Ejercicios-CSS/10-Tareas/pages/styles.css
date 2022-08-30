@@ -1,0 +1,37 @@
+body {
+    background-color: whitesmoke;
+    font-family: 'Georgia';
+}
+h3 {
+    font-size: 20px;
+}
+.contain-compras span {
+    height: 2rem;
+    width: 2em;
+    background-color: orange;
+}
+.contain-boleta span {
+    height: 2rem;
+    width: 2em;
+    background-color: steelblue;
+}
+.contain-medico span {
+    height: 2rem;
+    width: 2em;
+    background-color:green;
+}
+.contain-precios span {
+    height: 2rem;
+    width: 2em;
+    background-color:red;
+}
+.contain-tarea span {
+    height: 2rem;
+    width: 2em;
+    background-color:steelblue;
+}
+.contain-retirar span {
+    height: 2rem;
+    width: 2em;
+    background-color:green;
+}
